@@ -2,7 +2,7 @@
 Hola! Soy Kevin 👋 Data Engineer en Webstarted!
 ⁣⁣<br>Tengo experiencia trabajando como Analista y Científico de datos de Real Estate en Moody's Analytics (2021-2024) y soy profesor de Data Mining en ISTEA y profesor de Data Analytics en Coderhouse e Icaro. 
 
-Me recibí de Licenciado en Economía en 2023 en la Universidad Nacional de La Matanza y actulamente curso un posgrado de Ciencia de Datos en la misma universidad. Tambien cuento con certificaciones relacionadas a Machine Learning y Cloud (AWS-GCP).
+Me recibí de Licenciado en Economía en 2023 en la Universidad Nacional de La Matanza y actulamente curso un posgrado de Ciencia de Datos en la misma universidad. Tambien cuento con certificaciones relacionadas a Machine Learning y Cloud (Azure-AWS).
 
 Soy muy apasionado por la investigación. Cuento con 4 años aproximadamente brindando asistencia a proyectos de investigación a nivel universitario. 
 
