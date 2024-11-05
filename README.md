@@ -20,3 +20,25 @@ Me defino como un economista atento al detalle y apasionado por estar al día co
 📧 Contacto en mi LinkedIn o a mi mail: kevinkovacs@outlook.com.ar
 
 📊 En mis repositorios vas a encontrar contenido sobre: SQL, python, machine learning, cloud y visualización de datos. 
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinkovacs-cloud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=kevinkovacs-cloud&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+
+<br clear="both">
+
+![snake animation](https://github.com/kevinkovacs-cloud/kevinkovacs-cloud/blob/output/github-contribution-grid-snake-dark.svg)
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kevinkovacs-cloud/count.svg?" style="filter: hue-rotate(330deg);" />
+</div>
+
+###
