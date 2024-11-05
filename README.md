@@ -30,15 +30,3 @@ Me defino como un economista atento al detalle y apasionado por estar al día co
 
 ###
 
-
-<br clear="both">
-
-![snake animation](https://github.com/kevinkovacs-cloud/kevinkovacs-cloud/blob/output/github-contribution-grid-snake-dark.svg)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kevinkovacs-cloud/count.svg?" style="filter: hue-rotate(330deg);" />
-</div>
-
-###
