@@ -1,12 +1,12 @@
 # 💫 About Me:
-Hola! Soy Kevin 👋 Data Engineer en Nexton!
-⁣⁣<br>Tengo experiencia trabajando como Analista y Científico de datos de Real Estate en Moody's Analytics (2021-2024) y soy profesor de Data Mining en ISTEA y profesor de Data Analytics en Coderhouse e Icaro. 
+Hi! I’m Kevin 👋 Data Engineer at Nexton!
+⁣⁣<br>I have experience as a Real Estate Data Analyst and Data Scientist at Moody's Analytics (2021-2024) and currently serve as a Data Mining instructor at ISTEA, as well as a Data Analytics instructor at Coderhouse and Icaro.
 
-Me recibí de Licenciado en Economía en 2023 en la Universidad Nacional de La Matanza y actulamente curso un posgrado de Ciencia de Datos en la misma universidad. Tambien cuento con certificaciones relacionadas a Machine Learning y Cloud (Azure-AWS).
+I earned my Bachelor’s degree in Economics in 2023 from the National University of La Matanza and am now pursuing a postgraduate degree in Data Science at the same university. I also hold certifications in Machine Learning and Cloud (Azure-AWS).
 
-Soy muy apasionado por la investigación. Cuento con 4 años aproximadamente brindando asistencia a proyectos de investigación a nivel universitario. 
+I’m deeply passionate about research, with approximately four years of experience assisting university-level research projects.
 
-Me defino como un economista atento al detalle y apasionado por estar al día con las últimas tendencias de la industria y tecnologías.
+I define myself as a detail-oriented economist who loves staying up to date with the latest industry trends and technologies.
 
 
 ## 🌐 Socials:
@@ -17,9 +17,9 @@ Me defino como un economista atento al detalle y apasionado por estar al día co
 
 
 
-📧 Contacto en mi LinkedIn o a mi mail: kevinkovacs@outlook.com.ar
+📧 Feel free to connect via LinkedIn or email me at kevinkovacs@outlook.com.ar
 
-📊 En mis repositorios vas a encontrar contenido sobre: SQL, python, machine learning, cloud y visualización de datos. 
+📊 In my repositories, you’ll find content related to SQL, Python, Machine Learning, Cloud, and Data Visualization.
 
 ###
 
